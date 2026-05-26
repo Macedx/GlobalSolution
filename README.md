@@ -1,12 +1,7 @@
 # GlobalSolution
 Avaliação semestral FIAP - Semestre 1
-# Monitoramento de Eventos Ambientais
 
-## Autores
-Ana Paula Macedo Batista RM573979
-Pedro Davi Silva Da Conceição RM 573644
-Rafael de Souza Campos RM571659
- 
+# Monitoramento de Eventos Ambientais
 
 ## Descrição
 Este projeto em Python realiza o registro e a análise de eventos ambientais.
@@ -22,7 +17,7 @@ O sistema coleta informações dos eventos, valida os dados inseridos pelo usuá
 - Cálculo da área total afetada
 - Cálculo da média de intensidade
 - Identificação da região com mais ocorrências
-- Identificação do evento mais crítico
+- Identificação automática do evento mais crítico, considerando a maior intensidade do impacto e utilizando a área afetada como critério de desempate
 - Geração de relatório formatado
 
 ---
@@ -83,6 +78,8 @@ Intensidade: 8
 
 ---
 
-Ana Paula Macedo Batista
-Pedro Davi Silva Conceição 
-Rafael de Souza Campos
+## Autores
+
+Ana Paula Macedo Batista - 573979
+Pedro Davi Silva Conceição - 573644
+Rafael de Souza Campos - 571659
